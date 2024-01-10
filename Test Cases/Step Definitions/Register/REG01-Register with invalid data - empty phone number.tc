@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG01-Register with invalid data - empty phone number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56d42d3e-b66a-49c7-97a3-66a10a0bf52b</testCaseGuid>
+</TestCaseEntity>

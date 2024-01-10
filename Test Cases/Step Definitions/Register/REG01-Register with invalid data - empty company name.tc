@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG01-Register with invalid data - empty company name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48c01b33-4fec-4ad3-a5d2-4927194db203</testCaseGuid>
+</TestCaseEntity>

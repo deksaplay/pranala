@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_province (optional)</name>
+   <tag></tag>
+   <elementGuidId>e66278e7-0dc8-45e2-afd3-1044e402754f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='states']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#states</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a8e0b0c6-6abd-4301-8386-0d4e36fe154f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>state</value>
+      <webElementGuid>39ef8244-dc08-47ba-81f1-0c948eeec7f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control border-grey</value>
+      <webElementGuid>b84ff070-8a4d-45e3-a1e6-9597d0d8c9f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>states</value>
+      <webElementGuid>97d75ccb-2225-42c2-becf-7b84ac4e0fc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Your state / province (optional)
+                </value>
+      <webElementGuid>3ad04e2e-bfc1-4add-a30f-ca86d84c56c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;states&quot;)</value>
+      <webElementGuid>f1beb29d-7c50-4009-86b0-2e01a3f02c58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='states']</value>
+      <webElementGuid>478eed3d-7775-4963-9088-21d2431b3617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='state_input_wrapper']/select</value>
+      <webElementGuid>3ef9ae23-0813-460d-a5f3-8d8e9bbdefab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Åland Islands'])[1]/following::select[2]</value>
+      <webElementGuid>17256625-c98e-4e1f-949d-f48e88dcf837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zimbabwe'])[1]/following::select[2]</value>
+      <webElementGuid>aba7d732-d6ba-4cee-a3d2-441b685ecc59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Services Agreement'])[1]/preceding::select[1]</value>
+      <webElementGuid>bae282f1-3bf7-4870-b854-b2a279091b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>e94a5fbe-7a49-4e9d-b371-029d59c01a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'state' and @id = 'states' and (text() = '
+                  Your state / province (optional)
+                ' or . = '
+                  Your state / province (optional)
+                ')]</value>
+      <webElementGuid>f370bcb8-ce56-478b-a177-6664e4870df9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

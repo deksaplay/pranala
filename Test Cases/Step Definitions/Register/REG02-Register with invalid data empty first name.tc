@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG02-Register with invalid data empty first name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3a1dd3e-a403-4bd6-8885-b376293d8323</testCaseGuid>
+</TestCaseEntity>
